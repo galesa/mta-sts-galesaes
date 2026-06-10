@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
-mx: mail.galesa.es
+mx: galesa-es.correoseguro.dinaserver.com 
 max_age: 86400
